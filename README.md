@@ -4,4 +4,4 @@ The GitHub version is missing important parts like the jquery files, foundation 
 The purpose of this is to show off my work here to give a general idea of the code I wrote, not to be able to copy and paste the entire functioning site.
 I'm planning on hosting the website using another service.
 If you want to see my work in action try this link for the time being: https://soulsbornefinder.000webhostapp.com/
-Note: The service I'm using the host the site can have inconsistent up and down times.
+Note: The service I'm using to host the site can have inconsistent up and down times.
